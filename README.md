@@ -30,7 +30,7 @@ http://www.synthzone.com/
 http://www.schems.com/
 http://www.ucapps.de/
 
-<h3> Open source companies:</h3>
+<h3>Open source companies:</h3>
 http://mutable-instruments.net/
 http://bleeplabs.com/
 
