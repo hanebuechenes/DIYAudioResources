@@ -1,5 +1,7 @@
 <h1>DIY-Synth-Resources</h2>
 
+A handful of resources I have bookmarked over the years. Please feel welcome to add to this page! 
+
 <h3>Schematics, Designs:</h3>
 <ul>
 <li>http://www.musicfromouterspace.com/</li>
