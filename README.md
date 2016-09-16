@@ -1,4 +1,4 @@
-<h1>DIY_Synth_Resources</h2>
+<h1>DIY_Audio_Resources</h2>
 
 A handful of resources I have bookmarked over the years. Please feel welcome to add to this page! 
 
