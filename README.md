@@ -2,6 +2,8 @@
 
 A handful of resources I have bookmarked over the years. Please feel welcome to add to this page! 
 
+For any that are dead use <a href="https://archive.org/web/">Internet Archive: Wayback Machine</a>
+
 <h3>Schematics, Designs:</h3>
 <ul>
 <li>http://www.musicfromouterspace.com/</li>
@@ -14,7 +16,7 @@ A handful of resources I have bookmarked over the years. Please feel welcome to 
 <li>http://hubpages.com/technology/buildASynth</li>
 <li>http://yusynth.net/index_en.php</li>
 <li>http://www.till.com/articles/synthresources/</li>
-<li>http://www.cgs.synth.net/</li>
+  <li><a href="https://sdiy.info/wiki/CatGirl_Synth">CatGirl Synth</a><!-- slowly being archived at sdiy.info -->
 <li>http://www.co-bw.com/Index_DIY_Synth.htm</li>
 <li>http://www.schmitzbits.de/index.html</li>
 <li>http://www.timstinchcombe.co.uk/index.php?pge=synth</li>
@@ -47,4 +49,9 @@ A handful of resources I have bookmarked over the years. Please feel welcome to 
 <li>http://www.jiisuki.net/reports/howto-build-analog-synth.pdf</li>
 <li>http://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/</li>
 <li>http://playground.arduino.cc/Main/ArduinoSynth</li>
+</ul>
+
+<h3>Synth DIY wiki:</h3>
+<ul>
+  <li><a href="https://www.sdiy.info">www.sdiy.info</a> - Use this for collating information about synth DIY and electronics.</li>
 </ul>
